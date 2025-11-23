@@ -25,8 +25,9 @@ Simply open `index.html` in a web browser to view the portfolio page.
 
 ## Authors
 
-**Sina Sarikhani**
-**Tohidi**
+- **Sina Sarikhani**
+- **Tohidi**
+
 Computer Science Student  
 Tehran, Iran
 
