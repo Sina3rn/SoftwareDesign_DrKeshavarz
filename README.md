@@ -23,9 +23,10 @@ This is a Persian (Farsi) language portfolio website for Sina Sarikhani, featuri
 
 Simply open `index.html` in a web browser to view the portfolio page.
 
-## Author
+## Authors
 
-**Sina Sarikhani**  
+**Sina Sarikhani**
+**Tohidi**
 Computer Science Student  
 Tehran, Iran
 
